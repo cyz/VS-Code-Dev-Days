@@ -37,7 +37,8 @@ This practical guide is designed to  ensure that you organize a successful techn
 
 ### **5. Promotion**
 - [ ] Make sure to share your registration link with us by **August 31** to help us promote your event in our in our global announcements.
-- [ ] Create posts for **social media** (Instagram, LinkedIn, etc.) to promote the event. [In this folder](templates/) you can find some examples and templates.
+- [ ] Create posts for **social media** (Instagram, LinkedIn, etc.) to promote the event.
+> _In the next couple of days, we will post the templates for you!_
 
 ### **6. Team and Tasks**
 - [ ] Assign a **main host** to coordinate the event.
