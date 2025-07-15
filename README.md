@@ -2,11 +2,12 @@
  
 The **VS Code Dev Days** event series is a global, in-person user group initiative coming this September. Our goal is to bring together developers, enthusiasts, and local communities to explore the power of Visual Studio Code and GitHub Copilot in agentic AI development. 
  
-The events are 2.5 to 3-hour in-person workshops led by tech communities around the world. 
+VS Code Dev Days are **open to all developers** and focus on practical **AI-assisted coding** with GitHub Copilot.  
+These **in-person workshops** will be held worldwide in **September 2025**, lasting 2.5 to 3 hours, and are led by local tech communities.
+
+> 💻 **Are you a community leader and want to organize VS Code Dev Days for your user group?** Fill out the form and submit your event:  [Organize VS Code Dev Days](https://aka.ms/organize-vscode-devdays)
  
 ## 🌱 Getting Started & Setup Guide 
- 
-The VS Code Dev Days events are open to developers of all levels and focus on leveraging **AI-assisted coding** with GitHub Copilot. They will take place in **September 2025**. 
 
 For the event workshop, participants will need: 
 
@@ -26,9 +27,9 @@ In our content folder, you will find the presentation slides and a recommended l
 
 |       |              Content             |                       Time                       |                     Learning Goal                 | 
 | :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- | 
-| 01 | Essential Techniques for GitHub Copilot in VS Code - *coming soon* | 30 minutes |  Get started using GitHub Copilot in VS Code.                    | 
-| 02 | Community Session | 30 minutes  |  Session to be delivered by a community member. Content is flexible but should focus on agentic AI.                    | 
-| 03 | [Workshop](https://github.com/github-samples/pets-workshop/tree/main) | 60 minutes |  Introduction to Copilot, Tips & Tricks, Key Features.                    | 
+| 01 | Essential Techniques for GitHub Copilot in VS Code - *coming soon* | 30~45 minutes |  Get started using GitHub Copilot in VS Code.                    | 
+| 02 | Community Session - *Dev & VS Code topic chosen by the community* | 30~45 minutes  |  Session to be delivered by a community member. Content is flexible but should focus on agentic AI.                    | 
+| 03 | [Lab: Exploring VS Code and GitHub Copilot](https://github.com/github-samples/pets-workshop/tree/main) | 60 minutes |  Introduction to Copilot, Tips & Tricks, Key Features.                    | 
  
 ## Promotion 
 To help you successfully promote your Bootcamp, we provide a [Marketing Toolkit](marketing) with essential resources, including: 
