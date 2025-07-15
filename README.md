@@ -2,8 +2,7 @@
  
 The **VS Code Dev Days** event series is a global, in-person user group initiative coming this September. Our goal is to bring together developers, enthusiasts, and local communities to explore the power of Visual Studio Code and GitHub Copilot in agentic AI development. 
  
-VS Code Dev Days are **open to all developers** and focus on practical **AI-assisted coding** with GitHub Copilot.  
-These **in-person workshops** will be held worldwide in **September 2025**, lasting 2.5 to 3 hours, and are led by local tech communities.
+VS Code Dev Days are **open to all developers** and focus on practical **AI-assisted coding** with GitHub Copilot. These **in-person workshops** will be held worldwide in **September 2025**, lasting 2.5 to 3 hours, and are led by local tech communities.
 
 > 💻 **Are you a community leader and want to organize VS Code Dev Days for your user group?** Fill out the form and submit your event:  [Organize VS Code Dev Days](https://aka.ms/organize-vscode-devdays)
  
