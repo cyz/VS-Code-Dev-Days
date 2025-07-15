@@ -1,4 +1,4 @@
-## **GitHub Copilot Global Bootcamp (In-Person) Event Organization Checklist**
+## **VS Code Dev Days (In-Person) Event Organization Checklist**
 
 This practical guide is designed to  ensure that you organize a successful technical event.
 
@@ -36,7 +36,7 @@ This practical guide is designed to  ensure that you organize a successful techn
 > If your event is on Saturday, you can send a reminder email on Wednesday and a follow-up email on Friday. This will help ensure that participants are well-prepared and have all the necessary information.
 
 ### **5. Promotion**
-- [ ] Make sure to share your registration link with us by **August 1** to help us promote your event in our in our global announcements.
+- [ ] Make sure to share your registration link with us by **August 31** to help us promote your event in our in our global announcements.
 - [ ] Create posts for **social media** (Instagram, LinkedIn, etc.) to promote the event. [In this folder](templates/) you can find some examples and templates.
 
 ### **6. Team and Tasks**
