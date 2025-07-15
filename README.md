@@ -19,17 +19,17 @@ For the event workshop, participants will need:
  
 The **VS Code Dev Days** is designed to be a hands-on experience, allowing participants to learn by doing. We’ve included content for the Introductory Session (slide deck) and for the workshop. 
  
-In our content folder, you will find the presentation slides and a recommended lab.   
+In our [content](/content) folder, you will find the presentation slides and recommended labs.   
 
 **Duration**: 2-3 hours  
 **Agenda** 
 
-|       |              Content             |                       Time                       |                     Learning Goal                 | 
-| :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- | 
-| 01 | Essential Techniques for GitHub Copilot in VS Code - *coming soon* | 30~45 minutes |  Get started using GitHub Copilot in VS Code.                    | 
-| 02 | Community Session - *Dev & VS Code topic chosen by the community* | 30~45 minutes  |  Session to be delivered by a community member. Content is flexible but should focus on agentic AI.                    | 
-| 03 | [Lab: Exploring VS Code and GitHub Copilot](https://github.com/github-samples/pets-workshop/tree/main) | 60 minutes |  Introduction to Copilot, Tips & Tricks, Key Features.                    | 
- 
+|       |              Content             |                       Time                       |                     Learning Goal                 |                     Link                 |
+| :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- | ----------------------------------------------------------- |
+| 01 | Essential Techniques for GitHub Copilot in VS Code | 30~45 minutes|  Get started using GitHub Copilot in VS Code.                    | *Coming soon* |
+| 02 | Community Session | 30~45 minutes | Session to be delivered by a community member. Content is flexible but should focus on agentic AI. | *Chosen by community* |
+| 03 | Workshop | 60 minutes | Develop skills with VS Code and GitHub Copilot. | [Lab options](/content) |
+
 ## Promotion 
 To help you successfully promote your Bootcamp, we provide a [Marketing Toolkit](marketing) with essential resources, including: 
  
