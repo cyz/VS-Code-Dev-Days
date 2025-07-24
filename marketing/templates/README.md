@@ -17,7 +17,7 @@ These high-quality cover images are perfect for event registration pages, social
 
 | Option 1: Code Editor Focus                | Option 2: Modern Gradient                  |
 |---------------------------------------------|---------------------------------------------|
-| ![Promotional graphic for "VS Code Dev Days" in New York, featuring placeholder text for date, time, and location. On the right, there's a screenshot of Visual Studio Code with a markdown file titled "functionsJournal.md" open. Visual Studio Code and GitHub logos appear in the bottom left corner.](../assets/sample-event-cover-01.png) | ![Promotional banner for "VS Code Dev Days" in New York, displaying placeholder text for date, time, and location. The background is dark with a blue binary code gradient on the right, and the VS Code and GitHub logos appear in the bottom left corner.](../assets/sample-event-cover-02.png) |
+| ![Promotional graphic for "VS Code Dev Days" in New York, featuring placeholder text for date, time, and location. On the right, there's a screenshot of Visual Studio Code with a markdown file titled "functionsJournal.md" open. Visual Studio Code and GitHub logos appear in the bottom left corner.](../../assets/sample-event-cover-01.png) | ![Promotional banner for "VS Code Dev Days" in New York, displaying placeholder text for date, time, and location. The background is dark with a blue binary code gradient on the right, and the VS Code and GitHub logos appear in the bottom left corner.](../../assets/sample-event-cover-02.png) |
 
 ## 📱 Social Media Templates
 
