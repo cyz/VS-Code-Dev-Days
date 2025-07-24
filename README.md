@@ -1,6 +1,6 @@
-# VS Code Dev Days
-
 ![Dark background with symbols like #, *, %, and binary digits (0 and 1), featuring the central white text: "The open source AI code editor."](assets/the-oss-ai-code-editor.jpg)
+
+# VS Code Dev Days
 
 The **VS Code Dev Days** event series is a global, in-person user group initiative coming this September. Our goal is to bring together developers, enthusiasts, and local communities to explore the power of Visual Studio Code and GitHub Copilot in autonomous AI development.
 
