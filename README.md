@@ -1,11 +1,11 @@
+![Dark background with symbols like #, *, %, and binary digits (0 and 1), featuring the central white text: "The open source AI code editor."](assets/the-oss-ai-code-editor.jpg)
+
 # VS Code Dev Days 
  
 The **VS Code Dev Days** event series is a global, in-person user group initiative coming this September. Our goal is to bring together developers, enthusiasts, and local communities to explore the power of Visual Studio Code and GitHub Copilot in agentic AI development. 
  
 VS Code Dev Days are **open to all developers** and focus on practical **AI-assisted coding** with GitHub Copilot. These **in-person workshops** will be held worldwide in **September 2025**, lasting 2.5 to 3 hours, and are led by local tech communities.
 
-> 💻 **Are you a community leader and want to organize VS Code Dev Days for your user group?** Fill out the form and submit your event:  [Organize VS Code Dev Days](https://aka.ms/organize-vscode-devdays)
- 
 ## 🌱 Getting Started & Setup Guide 
 
 For the event workshop, participants will need: 
@@ -22,7 +22,8 @@ The **VS Code Dev Days** is designed to be a hands-on experience, allowing parti
 In our [content](/content) folder, you will find the presentation slides and recommended labs.   
 
 **Duration**: 2-3 hours  
-**Agenda** 
+
+### Agenda
 
 |       |              Content             |                       Time                       |                     Learning Goal                 |                     Link                 |
 | :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- | ----------------------------------------------------------- |
@@ -31,11 +32,14 @@ In our [content](/content) folder, you will find the presentation slides and rec
 | 03 | Workshop | 60 minutes | Develop skills with VS Code and GitHub Copilot. | [Lab options](/content) |
 
 ## Promotion 
-To help you successfully promote your Bootcamp, we provide a [Marketing Toolkit](marketing) with essential resources, including: 
+
+![Promotional graphic for "VS Code Dev Days" featuring a sample title in large white font on the left and a grid of four abstract, tech-themed images on the right. Visual Studio Code and GitHub Copilot icons appear in the bottom left corner.](/assets/vscode-dev-days-template.png)
+
+To help you successfully promote your event, we provide a [Marketing Toolkit](marketing) with essential resources, including: 
  
-- A marketing checklist to guide you through key promotional activities. 
-- A reference text for your event registration page. 
-- Social media templates to create engaging promotional graphics. 
+- [A marketing checklist to guide you through key promotional activities.](marketing/README.md)
+- [A reference text for your event registration page.](marketing/registration-page-draft.md)
+- [Social media templates to create engaging promotional graphics.](marketing/templates) 
  
 Leverage these resources to maximize visibility and attract more participants to your event!  
  
@@ -60,4 +64,4 @@ This project may contain trademarks or logos for projects, products, or services
 trademarks or logos is subject to and must follow  
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general). 
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship. 
-Any use of third-party trademarks or logos are subject to those third-party's policies. 
+Any use of third-party trademarks or logos are subject to those third-party's policies.
