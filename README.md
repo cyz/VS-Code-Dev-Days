@@ -29,9 +29,7 @@ In our [content](/content) folder, you will find the presentation slides and rec
 | 02 | Community Session | 30~45 minutes | Session to be delivered by a community member. Content is flexible but should focus on autonomous AI. | *Chosen by community* |
 | 03 | Workshop | 60 minutes | Develop skills with VS Code and GitHub Copilot. | [Lab options](/content) |
 
-![Promotional graphic for "VS Code Dev Days" featuring a sample title in large white font on the left and a grid of four abstract, tech-themed images on the right. Visual Studio Code and GitHub Copilot icons appear in the bottom left corner.](/assets/vscode-dev-days-template.png)
-
-## Marketing resources for promotion
+## 🎨 Marketing resources for promotion
 
 To help you successfully promote your event, we provide a [Marketing Toolkit](marketing) with essential resources, including:
 
@@ -39,7 +37,6 @@ To help you successfully promote your event, we provide a [Marketing Toolkit](ma
 - [A reference text for your event registration page.](marketing/registration-page-draft.md)
 - [Social media templates to create engaging promotional graphics.](marketing/templates)
 
-Leverage these resources to maximize visibility and attract more participants to your event!
 
 ## Contributing
 
