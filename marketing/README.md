@@ -6,7 +6,7 @@ In this folder you will find:
 
 - [Event organization checklist](#vs-code-dev-days-in-person-event-organization-checklist)
 - [Registration page draft](registration-page-draft.md)
-- [Social media templates](/templates)
+- [Social media templates](templates)
 
 ## VS Code Dev Days (In-Person) Event Organization Checklist
 
