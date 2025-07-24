@@ -6,7 +6,6 @@ Join us for a **hands-on workshop** where you'll learn how to unlock the full po
 
 💻 **Bring your laptop!** This interactive session requires your own device so you can practice new techniques in real time.
 
-
 ## 📅 Event Agenda  
 
 *[Time]* – **Check-in & Networking**  
@@ -32,6 +31,6 @@ Wrap up the session and leave time for networking.
 We are committed to fostering an inclusive and welcoming environment for all participants. Please review our [Code of Conduct](#) before attending.  
 
 ## 📍 How to Get There
-📌 **Event Location:** _[Organizer to fill in]_  
-🚉 **Nearest Public Transport:** _[Organizer to fill in]_  
-🅿️ **Parking Options:** _[Organizer to fill in]_  
+📌 **Event Location:** _[Organizer to fill in]_
+🚉 **Nearest Public Transport:** _[Organizer to fill in]_
+🅿️ **Parking Options:** _[Organizer to fill in]_
