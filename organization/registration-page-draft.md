@@ -40,9 +40,13 @@ Wrap up the session and leave time for networking.
 
 ---
 ## 📜 Code of Conduct
+
 We are committed to fostering an inclusive and welcoming environment for all participants. Please review our [Code of Conduct](#) before attending.  
 
 ## 📍 How to Get There
+
 📌 **Event Location:** _[Organizer to fill in]_
+
 🚉 **Nearest Public Transport:** _[Organizer to fill in]_
+
 🅿️ **Parking Options:** _[Organizer to fill in]_
