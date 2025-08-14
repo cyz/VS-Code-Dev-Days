@@ -6,9 +6,15 @@ Your agenda will look like this:
 
 |       |              Content             |                       Time                       |                     Learning Goal                 |                     Link                 |
 | :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| 01 | Essential Techniques for GitHub Copilot in VS Code | 30~45 minutes|  Get started using GitHub Copilot in VS Code.                    | *Coming soon* |
+| 01 | Essential Techniques for GitHub Copilot in VS Code | 30~45 minutes|  Get started using GitHub Copilot in VS Code.                    | *See below* |
 | 02 | Community Session | 30~45 minutes | Session to be delivered by a community member. Content is flexible but should focus on agentic AI. | *Chosen by community* |
 | 03 | Workshop | 60 minutes | Develop skills with VS Code and GitHub Copilot. | *See below* |
+
+## Slides
+
+|        Content Name        |                Slide File Link                |         Train the Trainer Video         |
+| :-----------------------: | :-------------------------------------------: | :------------------------------------------: |
+| Essential Techniques for GitHub Copilot in VS Code | [Slides PPT](./VSCode_GitHubCopilot.pptx) | [🎥 Watch Train the Trainer](https://www.youtube.com/watch?v=wNSMkQKd-Xc) |
 
 ## 🗃️ Workshops
 
