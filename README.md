@@ -6,37 +6,30 @@ The **VS Code Dev Days** event series is a global, in-person user group initiati
 
 VS Code Dev Days are **open to all developers** and focus on practical **AI-assisted coding** with GitHub Copilot. These **in-person workshops** will be held worldwide in **September 2025**, lasting 2.5 to 3 hours, and are led by local tech communities.
 
-## 🌱 Getting Started & Setup Guide
+## 🌱 Getting Started
 
-For the event workshop, participants will need:
+If you're a community leader and want to host a VS Code Dev Days event, in this repo you will find resources and materials to help you plan and execute your event successfully.
 
-- [VS Code](https://code.visualstudio.com/download)
-- [GitHub Copilot](https://github.com/features/copilot)
+**To make it easier to revisit this repository in the future, you can also [star (🌟) this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) this repo.**
 
-## 📂 Agenda and Content
+### 📚 Resources available
 
-The **VS Code Dev Days** is designed to be a hands-on experience, allowing participants to learn by doing. We’ve included content for the Introductory Session (slide deck) and for the workshop.
+| Topic | Description | Resources |
+| :--- | :--- | :--- |
+| 📁 [**Content**](/content) | Technical content for sessions and workshops. | Presentation slides, hands-on labs |
+| 📁 [**Organization Guide**](/organization) | Step-by-step guidance for planning, organizing, and running successful events, with checklists and templates. | Event checklist, registration page draft |
+| 📁 [**Promotional Materials**](/marketing) | Marketing toolkit to help you promote your event, featuring social media templates and reference texts. | Event covers, social media templates |
 
-In our [content](/content) folder, you will find the presentation slides and recommended labs.
+### 🗓️ Event format
 
-**Duration**: 2-3 hours
+The **VS Code Dev Days** is designed to be a hands-on experience, allowing participants to learn by doing.  
+**The event agenda should follow the standard structure outlined below.**
 
-### Agenda
-
-|       |              Content             |                       Time                       |                     Learning Goal                 |                     Link                 |
-| :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| 01 | Essential Techniques for GitHub Copilot in VS Code | 30~45 minutes|  Get started using GitHub Copilot in VS Code.                    | *Coming soon* |
-| 02 | Community Session | 30~45 minutes | Session to be delivered by a community member. Content is flexible but should focus on autonomous AI. | *Chosen by community* |
-| 03 | Workshop | 60 minutes | Develop skills with VS Code and GitHub Copilot. | [Lab options](/content) |
-
-## 🎨 Marketing resources for promotion
-
-To help you successfully promote your event, we provide a [Marketing Toolkit](marketing) with essential resources, including:
-
-- [A marketing checklist to guide you through key promotional activities.](marketing/README.md)
-- [A reference text for your event registration page.](marketing/registration-page-draft.md)
-- [Social media templates to create engaging promotional graphics.](marketing/templates)
-
+| #  | Topic                                              | Duration      | Description                                                                 | Resources                |
+|----|----------------------------------------------------|--------------|-----------------------------------------------------------------------------|--------------------------|
+| 01 | Essential Techniques for GitHub Copilot in VS Code | 30–45 minutes| Get started using GitHub Copilot in VS Code.                                | [📁 **Content folder**](../content/)            |
+| 02 | Community Session                                 | 30–45 minutes| Session delivered by a community member. Content is flexible but should focus on autonomous AI. | **Chosen by community**  |
+| 03 | Workshop                                          | 60 minutes   | Develop skills with VS Code and GitHub Copilot.                             | [📁 **Content folder**](../content/) |
 
 ## Contributing
 
