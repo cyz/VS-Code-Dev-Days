@@ -1,6 +1,4 @@
-# 📂 Content 
-
-The **VS Code Dev Days** is designed to be a hands-on experience, allowing participants to learn by doing. We've included content for the Introductory Session (slide deck) and for the workshop. The Introductory Session is designed to be completed in **30-45 minutes** and the workshop is about **60 minutes**.
+# 📂 Content
 
 In this content folder, you will find the **presentation slides** and a list of hands-on labs. You can choose the labs that best fit your audience's skill level and interests.
 
@@ -12,24 +10,31 @@ Your agenda will look like this:
 | 02 | Community Session | 30~45 minutes | Session to be delivered by a community member. Content is flexible but should focus on agentic AI. | *Chosen by community* |
 | 03 | Workshop | 60 minutes | Develop skills with VS Code and GitHub Copilot. | *See below* |
 
-## Labs
-Explore our selection of practical resources to enhance your workshops. Here, you'll find interactive training on Microsoft Learn and repositories with hands-on exercises to develop skills with VS Code and GitHub Copilot.
+## 🗃️ Workshops
 
-### Learning GitHub Repositories
- 
-A collection of public workshops offering practical content and interactive exercises:
+### Beginner
 
-| Repository | Description |
-|------------|-------------|
-| [Mastering GitHub Copilot for Paired Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) | An 11-lesson course teaching everything you need to know about harnessing GitHub Copilot as an AI-powered paired programming resource. |
-| [Mastering GitHub Copilot for C#/.NET Developers](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers) | Master GitHub Copilot for C#/.NET development via this curriculum! Learn AI-driven paired programming, optimize your workflow, and write cleaner, faster code. |
-| [Migrating a Python API to Rust with GitHub Copilot](https://github.com/microsoft/github-copilot-migrating-languages/tree/main) | Use GitHub Copilot to migrate an application from one programming language to another. |
-| [Upgrading a Python project with GitHub Copilot](https://github.com/microsoft/github-copilot-upgrading) | Upgrade a legacy Python project with GitHub Copilot. |
-| [Challenging SQL with GitHub Copilot](https://github.com/microsoft/challenging-github-copilot) | A demo project to push the limits of GitHub Copilot and understand how to craft better prompts. |
-| [Choose Your Own Copilot Adventure](https://github.com/microsoft/CopilotAdventures) | Copilot coding adventures. |
+|              Lesson Link              |                       Concepts Taught                       |                     Learning Goal                 |
+| :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
+| [Getting Started with GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Getting-Started-with-GitHub-Copilot) | GitHub Copilot is an AI coding assistant that can help you write code faster and with less effort, allowing you to focus more energy on problem solving and collaboration. |  In this exercise, you'll unlock the potential of this AI-powered coding assistant to accelerate your development process. |
+| [Creating a Mini Game with GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Creating-Mini-Game-with-GitHub-Copilot) | Use GitHub Copilot to assist you in building a Python-based mini game. | Craft prompts that can generate useful suggestions from GitHub Copilot to incorporate gaming logic and improve your Python-based game. |
 
-### Microsoft Learn 
+### Intermediate
 
-| Title | Level | Description |
-|---|---|---|
-| [Building applications with GitHub Copilot agent mode](https://learn.microsoft.com/training/modules/github-copilot-agent-mode/) | Intermediate | Learn how to build applications using GitHub Copilot Agent Mode by prompting autonomous development tasks, using documentation for guidance, and understanding how Agent Mode iteratively manages, refactors, and improves your codebase. |
+|              Lesson Link              |                       Concepts Taught                       |                     Learning Goal                 |
+| :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
+| [Pets workshop](https://github.com/github-samples/pets-workshop/tree/main/content/1-hour) | Use GitHub Copilot to build and improve a pet-themed web app with a Flask backend and Astro/Svelte frontend. | Learn to use GitHub Copilot to efficiently create and document API endpoints in Flask, streamlining your coding workflow. |
+| [Integrate MCP with GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Integrate-MCP-with-Copilot) | Use Model Context Protocol (MCP) to expand GitHub Copilot's capabilities and enhance your development workflow. | Integrate a GitHub MCP server with GitHub Copilot. Delegate tasks to Copilot from issue research to pull request implementation. Build a mixed development workflow using GitHub Copilot for project management. |
+| [Using GitHub Copilot with JavaScript](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Using-GitHub-Copilot-with-JavaScript) | Use GitHub Copilot, via agentic mode, to work with JavaScript. | Enable the GitHub Copilot extension in Visual Studio Code. Craft prompts that can generate useful suggestions from GitHub Copilot. Use GitHub Copilot to improve a JavaScript project. |
+| [Using GitHub Copilot with Python](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Using-GitHub-Copilot-with-Python) | Use GitHub Copilot, via agentic mode, to work with Python. | Enable the GitHub Copilot extension in Visual Studio Code. Craft prompts that can generate useful suggestions from GitHub Copilot. Use GitHub Copilot to improve a Python project. |
+| [Using GitHub Copilot with C#](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Using-GitHub-Copilot-with-CSharp) | Use GitHub Copilot, via agentic mode, to work with C#. | Enable the GitHub Copilot extension in Visual Studio Code. Craft prompts that can generate useful suggestions from GitHub Copilot. Use GitHub Copilot to improve a C# Minimal API project. |
+
+### Advanced
+
+|              Lesson Link              |                       Concepts Taught                       |                     Learning Goal                 |
+| :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
+| [Using Advanced GitHub Copilot Features](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Using-Advanced-GitHub-Copilot-Features) | Use advanced GitHub Copilot features like inline chat, slash commands, and agents. | Interact with GitHub Copilot with deeper context on your project and ask questions about it. |
+| [Getting Started with Copilot for Azure to Deploy to the Cloud](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Using-GitHub-Copilot-for-Azure-to-Deploy-to-Cloud) | Learn cloud deployment with GitHub Copilot for Azure—your ultimate guide to streamlined cloud success. | Effortless application deployment leveraging Azure’s powerful scalability. |
+| [Challenging GitHub Copilot with complex SQL](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Challenging-GitHub-Copilot-with-SQL) | Apply advanced GitHub Copilot features to work with a challenging application working with a complex SQL query | Gain a clear understanding of how to work with extremely challenging SQL and yield better results when simple prompts don't work well |
+| [Upgrading Legacy project](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Upgrading-Legacy-Projects) | Leverage GitHub Copilot to upgrade a legacy Python project to the latest version of Python. | Apply techniques to overcome the challenges involved in working with legacy projects |
+| [Migrating to a new language](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Migrating-Languages) | Rewrite an existing application using a different language with the guidance of GitHub Copilot | Use advanced workflows with GitHub Copilot applicable when translating projects to different programming languages |
