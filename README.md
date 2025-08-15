@@ -27,9 +27,9 @@ The **VS Code Dev Days** is designed to be a hands-on experience, allowing parti
 
 | #  | Topic                                              | Duration      | Description                                                                 | Resources                |
 |----|----------------------------------------------------|--------------|-----------------------------------------------------------------------------|--------------------------|
-| 01 | Essential Techniques for GitHub Copilot in VS Code | 30–45 minutes| Get started using GitHub Copilot in VS Code.                                | [📁 **Content folder**](../content/)            |
+| 01 | Essential Techniques for GitHub Copilot in VS Code | 30–45 minutes| Get started using GitHub Copilot in VS Code.                                | [📁 **Content folder**](/content/)            |
 | 02 | Community Session                                 | 30–45 minutes| Session delivered by a community member. Content is flexible but should focus on autonomous AI. | **Chosen by community**  |
-| 03 | Workshop                                          | 60 minutes   | Develop skills with VS Code and GitHub Copilot.                             | [📁 **Content folder**](../content/) |
+| 03 | Workshop                                          | 60 minutes   | Develop skills with VS Code and GitHub Copilot.                             | [📁 **Content folder**](/content/) |
 
 ## Contributing
 
