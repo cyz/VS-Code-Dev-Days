@@ -10,11 +10,11 @@ Your agenda will look like this:
 | 02 | Community Session | 30~45 minutes | Session to be delivered by a community member. Content is flexible but should focus on agentic AI. | *Chosen by community* |
 | 03 | Workshop | 60 minutes | Develop skills with VS Code and GitHub Copilot. | *See below* |
 
-## Slides
+## 📚 Slides
 
-|        Content Name        |                Slide File Link                |         Train the Trainer Video         |
-| :-----------------------: | :-------------------------------------------: | :------------------------------------------: |
-| Essential Techniques for GitHub Copilot in VS Code | [Slides PPT](./VSCode_GitHubCopilot.pptx) | [🎥 Watch Train the Trainer](https://www.youtube.com/watch?v=wNSMkQKd-Xc) |
+|        Content Name        |                Slide File Link                |   
+| :-----------------------: | :-------------------------------------------: | 
+| GitHub Copilot in VS Code | [Slides PPT](./VSCode_GitHubCopilot.pptx) | 
 
 ## 🗃️ Workshops
 
